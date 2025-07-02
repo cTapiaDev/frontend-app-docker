@@ -1,0 +1,15 @@
+{
+    "name": "frontend-app-docker",
+    "version": "1.0.0",
+    "description": "Servidor Node.js para levantar HTML estático",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    },
+    "keywords": [],
+    "author": "Carlos Tapia",
+    "license": "MIT"
+}
